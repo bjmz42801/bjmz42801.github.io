@@ -24,7 +24,7 @@
 - 第09周：广度优先搜索算法
 - 第10周：评价性测试
 
-**中国电子学会青少年等级考试介绍**：https://center.qceit.org.cn/bos/infolist.html?folder_code=down_area&function_name=%u8003%u8bd5%u4ecb%u7ecd&d=20230112124013213
+**中国电子学会青少年等级考试介绍**：<a href="https://center.qceit.org.cn/bos/infolist.html?folder_code=down_area&function_name=%u8003%u8bd5%u4ecb%u7ecd&d=20230112124013213">https://center.qceit.org.cn/</a>
 
 # 竞赛同学辅导大纲
 以竞赛题目辅导为主线，期间辅导巩固学习以下知识点：
@@ -35,7 +35,7 @@
 - 数论基础
 - . . .
 
-**全国青少年信息学奥林匹克竞赛官网介绍**：https://www.noi.cn/gynoi/jj/
+**全国青少年信息学奥林匹克竞赛官网介绍**：<a href="https://www.noi.cn/gynoi/jj/">https://www.noi.cn/gynoi/jj/</a>
 <br/>
 # 报名咨询方式：
 #### 赵老师 <a href="tel:16657160938">16657160938</a>（电话微信同号）
